@@ -23,7 +23,7 @@ export function Table(){
                     <tr>
                         <td>Aluguel</td>
                         <td className="withdraw">- R$1000</td>
-                        <td>Desenvolvimento</td>
+                        <td>Casa</td>
                         <td>10/03/2022</td>
                     </tr>
                 </tbody>
