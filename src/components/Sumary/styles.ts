@@ -5,7 +5,7 @@ export const Container = styled.div`
     flex-direction: row;
     justify-content: space-between;
     gap: 2rem;
-    margin-top: -10rem;
+    margin-top: -7rem;
 
     div{
         background: var(--shape);
