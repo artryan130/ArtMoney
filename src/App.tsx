@@ -24,7 +24,7 @@ createServer({
   }
 })
 
-
+Modal.setAppElement('#root');
 
 export function App() {
   
